@@ -1,0 +1,7 @@
+*.zip
+*.jpg
+*.JPG
+*.h5
+trained_models/*
+busesTrain/*
+busesTest/*
